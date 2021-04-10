@@ -5,4 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="C:\Users\Tina.T.Zhao\general\udacity\azuredevelopernanodegree\project1CMS\article_CMS_project1" />
+  </component>
 </module>
