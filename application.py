@@ -2,6 +2,7 @@
 This script runs the FlaskWebProject application using a development server.
 """
 
+import logging
 from os import environ
 from FlaskWebProject import app
 
