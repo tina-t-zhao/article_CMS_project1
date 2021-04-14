@@ -20,7 +20,7 @@ app.logger.setLevel(logging.INFO)
 # Direct logging output to stdout. Without adding a handler,
 # no logging output is captured.
 handler = logging.StreamHandler()
-handler.setLevel(logging.WARNING)
+handler.setLevel(logging.INFO)
 app.logger.addHandler(handler)
 
 Session(app)
